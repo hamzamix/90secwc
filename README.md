@@ -1,4 +1,4 @@
-<p align="center"> # 90SEC World Cup 2026 Simulator </p>
+<p align="center">  90SEC World Cup 2026 Simulator </p>
 
 <p align="center">
   <img src="./logo.png" alt="90secwc Logo" width="120" height="120">
