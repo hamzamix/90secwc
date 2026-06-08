@@ -17,13 +17,13 @@ A fast-paced World Cup 2026 simulator where you decide the matches in seconds. S
 
 ## 📸 Screenshots
 
-![Starwise logo](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/home.png)
+![90secwc Screenshots](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/home.png)
 
-![Starwise logo](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/home2.png)
+![Starwise Screenshots](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/home2.png)
 
-![Starwise logo](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/winner.png)
+![Starwise Screenshots](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/winner.png)
 
-![Starwise logo](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/wenner2.png)
+![Starwise Screenshots](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/winner2.png)
 
 ## Tech Stack
 
