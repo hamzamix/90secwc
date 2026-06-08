@@ -1,7 +1,7 @@
 # 90SEC World Cup 2026 Simulator
 
 <p align="center">
-  <img src="./logo.PNG" alt="StarWise Logo" width="120" height="120">
+  <img src="./logo.PNG" alt="90secwc Logo" width="120" height="120">
 </p>
 
 A fast-paced World Cup 2026 simulator where you decide the matches in seconds. Survive the group stage and conquer the knockouts to become the ultimate champion.
