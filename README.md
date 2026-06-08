@@ -1,4 +1,4 @@
-# 90SEC World Cup 2026 Simulator
+<p align="center"> # 90SEC World Cup 2026 Simulator </p>
 
 <p align="center">
   <img src="./logo.png" alt="90secwc Logo" width="120" height="120">
@@ -17,7 +17,6 @@ A fast-paced World Cup 2026 simulator where you decide the matches in seconds. S
 
 ## 📸 Screenshots
 
-**home 1**
 ![Starwise logo](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/home.png)
 
 ![Starwise logo](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/home2.png)
