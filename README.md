@@ -1,5 +1,9 @@
 # 90SEC World Cup 2026 Simulator
 
+<p align="center">
+  <img src="./logo.PNG" alt="StarWise Logo" width="120" height="120">
+</p>
+
 A fast-paced World Cup 2026 simulator where you decide the matches in seconds. Survive the group stage and conquer the knockouts to become the ultimate champion.
 
 ## Features
@@ -10,6 +14,17 @@ A fast-paced World Cup 2026 simulator where you decide the matches in seconds. S
 - **Global Leaderboard**: Local SQLite database tracks which teams are crowned most often.
 - **Full-Stack Architecture**: React frontend with an Express + SQLite backend.
 - **Vibrant UI**: Modern, dark-themed interface with smooth animations using Motion.
+
+## 📸 Screenshots
+
+**home 1**
+![Starwise logo](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/home.png)
+
+![Starwise logo](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/home2.png)
+
+![Starwise logo](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/winner.png)
+
+![Starwise logo](https://raw.githubusercontent.com/hamzamix/90secwc/refs/heads/main/Screenshots/wenner2.png)
 
 ## Tech Stack
 
