@@ -1,0 +1,6 @@
+{
+  "name": "90s World Cup",
+  "description": "A fast-paced World Cup simulator where you decide the matches in seconds. Survive the group stage and conquer the knockouts to become the champion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
